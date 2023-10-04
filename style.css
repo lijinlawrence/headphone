@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gabarito', cursive;
+   
+}
+
+/* nav bar */
+.as{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+
+
+/* banner */
+
+
+
+
+
+.a1{
+    position: absolute;
+    top: 250px;
+    left: 90px;
+}
+
+.a2{
+   font-size: 55px;
+}
+
+.a3{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: large;
+    border: black 2px ridge;
+
+}
+
+/* section2 */
+
+.a4{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* section 3 */
+
+.b1{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    color: gold;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+.image{
+    display: flex;
+ 
+   }
+
+.card{
+    margin: 10px;
+    
+}
+
+.b4{
+    position: absolute;
+    top: 0;
+    background-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-shadow: 2px 3px 3px gold;
+    border-radius: 50px;
+    padding: 1px;
+
+    
+}
+
+.b3{
+    position: relative;
+}
+
+/* hurry up */
+
+.c1{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    color: gold;
+    margin-top: 100px;
+
+}
+
+
+/* buying */
+
+/* text 1 */
+
+.c2{
+    font-size: 100px;
+    position: relative;
+}
+
+.c3{
+    position: absolute;
+    bottom: -2015px;
+    font-size: 20px;
+}
+
